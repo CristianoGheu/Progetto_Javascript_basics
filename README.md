@@ -16,6 +16,6 @@ Nel file script.js ho impostato i due pulsanti e l'input come costanti mettento 
 
 Infine nel file css ho messo l'input e i due pulsanti al centro della pagina e ho differenziato i due pulsanti dato al pulsante + il color rosso e al pulsante - il color blu.
 
-
+Il progetto l'ho deployato su Firebase: https://progetto-javascriptbasic-8fae3.web.app
 
 
